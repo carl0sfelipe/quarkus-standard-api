@@ -1,0 +1,6 @@
+SharePrint/models/User.class
+SharePrint/GreetingResource.class
+SharePrint/repository/UserRepository.class
+SharePrint/service/UserService.class
+META-INF/panache-archive.marker
+SharePrint/controllers/UserController.class
